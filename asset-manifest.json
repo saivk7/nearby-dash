@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nearyb-dash/static/css/main.5d20177c.chunk.css",
+    "main.js": "/nearyb-dash/static/js/main.f68e4f11.chunk.js",
+    "main.js.map": "/nearyb-dash/static/js/main.f68e4f11.chunk.js.map",
+    "runtime-main.js": "/nearyb-dash/static/js/runtime-main.eaeeee04.js",
+    "runtime-main.js.map": "/nearyb-dash/static/js/runtime-main.eaeeee04.js.map",
+    "static/css/2.e662efbe.chunk.css": "/nearyb-dash/static/css/2.e662efbe.chunk.css",
+    "static/js/2.283160d9.chunk.js": "/nearyb-dash/static/js/2.283160d9.chunk.js",
+    "static/js/2.283160d9.chunk.js.map": "/nearyb-dash/static/js/2.283160d9.chunk.js.map",
+    "index.html": "/nearyb-dash/index.html",
+    "static/css/2.e662efbe.chunk.css.map": "/nearyb-dash/static/css/2.e662efbe.chunk.css.map",
+    "static/css/main.5d20177c.chunk.css.map": "/nearyb-dash/static/css/main.5d20177c.chunk.css.map",
+    "static/js/2.283160d9.chunk.js.LICENSE.txt": "/nearyb-dash/static/js/2.283160d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eaeeee04.js",
+    "static/css/2.e662efbe.chunk.css",
+    "static/js/2.283160d9.chunk.js",
+    "static/css/main.5d20177c.chunk.css",
+    "static/js/main.f68e4f11.chunk.js"
+  ]
+}
